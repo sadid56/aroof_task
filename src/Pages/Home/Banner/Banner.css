@@ -1,0 +1,16 @@
+
+   
+  .header{
+    /* Polygon 3 */
+
+box-sizing: border-box;
+background-image: url("../../../assets/images/heaer.png");
+background-repeat: no-repeat;
+background-size: cover;
+transform: rotate(-27.61deg);
+
+  }
+  .layer{
+    box-sizing: border-box;
+transform: rotate(-27.61deg);
+  }
